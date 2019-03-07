@@ -16,7 +16,7 @@ containers, Docker, Kubernetes.
 
 I regularly deliver public and private training using
 these materials, often adapting them to better serve
-my customers.
+my clients.
 
 I'm based in the US and I visit Europe frequently.
 I can deliver training and workshops anywhere in the
