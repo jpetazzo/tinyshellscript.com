@@ -13,19 +13,17 @@
 ## DESCRIPTION
 
 This is a **four-day, hands-on training** to learn and understand Kubernetes
-concepts and architecture, and acquire the required skills to operate it
-in production.
+concepts and architecture, and acquire the skills to operate it in production.
 
 **From theory to practice**: for the duration of the training, each student is
 provided with a set of dedicated cloud resources, on which they
-will implement numerous labs and exercises. The demo apps and code
+will complete numerous labs and exercises. The demo apps and code
 samples feature components written in various languages like Node.js,
-Python, or Ruby. These components communicate with each other over
-load balancers. We will show you how to deploy and run that code
-on Kubernetes clusters. We will also learn how to build Kubernetes
-clusters from scratch, in order to fully understand the role and
-behaviors of each component of the **control plane** and **worker nodes**
-of a cluster.
+Python, or Ruby, which communicate with each other over load balancers. We'll
+show you how to deploy and run that code on Kubernetes clusters, and we'll also
+learn how to build Kubernetes clusters from scratch, in order to fully
+understand the role and behaviors of each component of the **control plane**
+and **worker nodes** of a cluster.
 
 The curriculum is suitable to all Kubernetes deployment models:
 **public cloud** (AKS, EKS, GKE…), **private cloud** (OpenStack…),
@@ -33,7 +31,7 @@ or **on-premises** (on your own servers in datacenters).
 
 It covers the whole
 [Certified Kubernetes Administrator (CKA) curriculum version 1.12](
-https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.12.0.pdf)
+https://github.com/cncf/curriculum/blob/master/old-versions/CKA_Curriculum_V1.12.0.pdf)
 (that's the most recent CKA curriculum as of February 2019), as
 well as a few additions.
 
@@ -53,10 +51,10 @@ After this training, you will know how to set up, maintain, upgrade,
 and perform day-to-day operations on Kubernetes clusters to
 improve the availability and scalability of your applications.
 
-This training will also teach you everything you need
-to know in order to pass the Certified Kubernetes
-Administrator (CKA) exam administered by the Cloud
-Native Computing Foundation.
+This training will also teach you everything you need to know in order to pass
+the [Certified Kubernetes Administrator (CKA) exam](
+https://www.cncf.io/certification/cka/) administered by the Cloud Native
+Computing Foundation.
 
 
 ## COURSE STRUCTURE
@@ -64,10 +62,11 @@ Native Computing Foundation.
 The content is broken down into many modules (each running 10 to 30 minutes long).
 Each module starts with a presentation of its concepts, followed by live demos
 in a real environment. The students are then prompted to reproduce these demos
-in their own environment, specially prepared for the training. This environment
-is set up to be usable immediately (no time wasted installing local virtual
-machines or setting up everyone's computer!), and it has all the features of
-a typical deployment, allowing to freely go "off-script", tinker, and experiment.
+in their own personal environment, which is provided for the training. This
+environment is set up to be usable immediately (no time wasted installing local
+virtual machines or setting up everyone's computer!), and it has all the
+features of a typical deployment, allowing to freely go "off-script", tinker,
+and experiment.
 
 
 ## PRE-REQUIREMENTS
@@ -82,7 +81,7 @@ yourself with e.g. Docker. There are many good resources out there to get
 started with Docker; for instance [Play With Docker](https://training.play-with-docker.com/beginner-linux/).
 
 Additionally, you should have work experience or training as a system administrator.
-You know and understand how to use the UNIX command-line to navigate directories,
+You know and understand how to use the UNIX command line to navigate directories,
 edit files, use SSH to access remote machines. You are familiar with networking
 concepts like IP addresses and subnets. You know about TLS mutual authentication,
 keys, and certificates.
@@ -92,7 +91,7 @@ for the duration of the training. Each student needs to bring their own
 computer, with a web browser and an SSH client.
 
 *For private training sessions: it is necessary that the network
-connectivity at the training venue allows outbound TCP connections
+connectivity at the training venue allow outbound TCP connections
 on arbitrary ports; not just 22/80/443.*
 
 
@@ -100,10 +99,10 @@ on arbitrary ports; not just 22/80/443.*
 
 While we have successfully delivered workshops accommodating more
 than 150 people at a time (at conferences like OSCON or Velocity),
-for best results, we advise to cap classrooms to 20 persons.
+for best results, we advise capping classrooms to 20 people.
 If you need to train more than 20 students at a time, we can
 accommodate you, but we strongly suggest to break down the class
-in multiple groups.
+into multiple groups.
 
 For larger groups (more than 10 students) or groups with a broad
 range of skills and profiles, we will bring at least one extra
@@ -116,7 +115,15 @@ experience regardless of their level and prior knowledge of containers.
 
 ### Jérôme Petazzoni
 
-Jérôme was part of the team that built, scaled, and operated the dotCloud PAAS, before that company became Docker. He worked seven years at the container startup, where he wore countless hats and ran containers in production before it was cool. He loves to share what he knows, which led him to give hundreds of talks and demos on containers, Docker, and Kubernetes. He trained thousands of people to deploy their apps in confidence on these platforms, and continues to do so as an independent consultant. He values diversity, and strives to be a good ally, or at least a decent social justice sidekick. He also collects musical instruments and can arguably play the theme of Zelda on a dozen of them.
+Jérôme was part of the team that built, scaled, and operated the dotCloud PAAS,
+before that company became Docker. He worked seven years at the container
+startup, where he wore countless hats and ran containers in production before
+it was cool. He loves to share what he knows, which has led him to give hundreds
+of talks and demos on containers, Docker, and Kubernetes. He trained thousands
+of people to deploy their apps in confidence on these platforms, and continues
+to do so as an independent consultant. He values diversity, and strives to be a
+good ally, or at least a decent social justice sidekick. He also collects
+musical instruments and can arguably play the theme of Zelda on a dozen of them.
 
 *Jérôme is a Certified Kubernetes Administrator.*
 
@@ -129,8 +136,7 @@ Curious to see what our training materials look like?
 No problem. The materials that we use for public training
 and conference workshops are all available at
 [container.training](https://container.training/).
-For instance, you can see
-the entire presentation deck that we delivered at the
+For instance, you can see the entire presentation deck that we delivered at the
 O'Reilly Velocity conference in October 2018 in New York City
 [here](https://k8s2d.container.training/).
 
