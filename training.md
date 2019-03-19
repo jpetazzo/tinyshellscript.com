@@ -53,4 +53,15 @@ detailed curriculums:
   covering Kubernetes basics + everything you need to know
   to operate Kubernetes clusters
 
+If you're wondering if that content is what you're looking for,
+here are more resources:
+
+- [Screencast of a 1-day conference workshop](https://www.youtube.com/playlist?list=PLBAFXs0YjviJwCoxSUkUPhsSxDJzpZbJd)
+  (QCON London, 2019)
+
+- [Slides for that workshop](http://qconuk2019.container.training)
+
+- [Slides for a 2-day training](https://kube-2019-03.container.training/#7)
+  (March 2019)
+
 [→ Contact me](mailto:jerome.petazzoni@gmail.com)
