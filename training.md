@@ -10,7 +10,7 @@ as a number of training materials, on
 
 In the past, I've taught Python, Linux system programming,
 networking, system administration. These days most of
-my trainin engagements revolve around containers, Docker,
+my training engagements revolve around containers, Docker,
 and Kubernetes.
 
 ### Docker and containers
