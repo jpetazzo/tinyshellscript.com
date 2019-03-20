@@ -30,9 +30,9 @@ The curriculum is suitable to all Kubernetes deployment models:
 or **on-premises** (on your own servers in datacenters).
 
 It covers the whole
-[Certified Kubernetes Administrator (CKA) curriculum version 1.12](
-https://github.com/cncf/curriculum/blob/master/old-versions/CKA_Curriculum_V1.12.0.pdf)
-(that's the most recent CKA curriculum as of February 2019), as
+[Certified Kubernetes Administrator (CKA) curriculum version 1.13](
+https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.13.0.pdf)
+(that's the most recent CKA curriculum as of March 2019), as
 well as a few additions.
 
 
