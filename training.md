@@ -45,6 +45,11 @@ My content is designed to be adapted to various lengths
 and audiences. Here are a couple of examples of
 detailed curriculums:
 
+- [20-hour Kubernetes Bootstrap](kubernetes-online.html)
+  specifically adapted for online/remote learning,
+  suitable for all audiences (dev, ops, architects)
+  with basic knowledge of containers
+
 - [2-day Kubernetes Bootstrap](kubernetes-bootstrap.html)
   suitable for all audiences (dev, ops, architects)
   with basic knowledge of containers
