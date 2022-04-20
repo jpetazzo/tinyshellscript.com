@@ -1,6 +1,6 @@
 # Kubernetes Online Training
 
-# Deploying micro-services <br/> and traditional applications <br/> with Kubernetes
+# Intermediate Level
 
 <img src="online.jpg" class="front" />
 
@@ -28,6 +28,10 @@ on Kubernetes clusters.
 The curriculum is suitable to all Kubernetes deployment models:
 **public cloud** (AKS, EKS, GKE…), **private cloud** (OpenStack…),
 or **on-premises** (on your own servers in datacenters).
+
+We also offer a [Kubernetes Intensive Training](kubernetes-online-intensive.md)
+which covers more topic, but goes at a much faster pace.
+
 
 ## TARGET AUDIENCE
 
@@ -137,13 +141,18 @@ SCALING
 
 MANAGING RESOURCES
 
+- Annotations and labels
+- Resource selectors
 - YAML manifests
 - Namespaces and scopes
+- Aggregating logs
+- Imperative CLI, declarative API
 
-REMOTE CLUSTERS
+LOCAL & REMOTE CLUSTERS
 
 - Configurations and contexts
 - Accessing internal services
+- Leveraging tools like Tilt or K9S
 
 ROLLOUTS, HEALTHCHECKS
 
@@ -164,15 +173,13 @@ AUTH'N AND AUTH'Z
 
 - Certs, tokens, and ServiceAccounts
 - Role-Based Access Control
-
-NEWORK POLICIES
-
-- Isolating pods with network policies
+- Reviewing who can do what on a cluster
 
 INGRESS RESOURCES
 
 - Handling inbound HTTP traffic
 - Ingress controllers
+- Content-based routing
 
 CAPACITY MANAGEMENT
 
@@ -181,16 +188,6 @@ CAPACITY MANAGEMENT
 - Metrics API
 - Managing cluster capacity
 - The Horizontal Pod Autoscaler
-
-INSTALLING WITH HELM
-
-- Helm concepts
-- Charts, repositories, releases
-
-AUTHORING HELM CHARTS
-
-- Writing a basic chart
-- Intro to Helm templates
 
 </div>
 </div>
