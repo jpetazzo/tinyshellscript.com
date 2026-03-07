@@ -1,24 +1,24 @@
 ## Hi! I'm Jérôme Petazzoni.
 
-I am a software engineer and
-speaker offering training and consulting services in the
+I was part of the team that built Docker, and I’ve trained
+thousands of engineers on Docker and Kubernetes.
+You may have seen one of my [tech talks](https://www.youtube.com/watch?v=3KtEAa7_duA&list=PLBAFXs0YjviIV4IlmbBbhf2cbalzVbXdr&index=6).
+
+I offer training and consulting services in the
 fields of containers, orchestration, and developer
 relations.
-
-If you would like to work together or have me speak at
-your conference or event, please
-[get in touch](mailto:jerome.petazzoni@gmail.com)!
 
 ## Training
 
 I build and maintain course materials covering topics like
-containers, Docker, Kubernetes.
+containers, Docker, and Kubernetes.
 
-I regularly deliver public and private training using
-these materials, often adapting them to better serve
-my clients.
+I regularly deliver public and private training, either
+in person on site, or through a bespoke online platform
+built for distributed teams. That platform has been
+refined over years of live remote sessions and was
+battle-tested while training teams throughout the pandemic.
 
-I'm based in the US and I visit Europe frequently.
 I can deliver training and workshops anywhere in the
 world. My training materials are in English, but I
 can deliver them in English or French (my native language).
@@ -27,12 +27,14 @@ can deliver them in English or French (my native language).
 
 ## Speaking
 
-If you'd like me to talk at your conference or event,
+I regularly speak at conferences, meetups, and internal
+events, and I also deliver webinars and online sessions
+for distributed teams.
+
+If you're organizing a conference, meetup, or company
+event and would like me to give a talk or workshop,
 [email me](mailto:jerome.petazzoni@gmail.com) to discuss
-how I can get involved.
-*Please note that I will expect you to cover at least
-my travel expenses, and depending on the type of your
-event, to compensate me for my time. Thank you!*
+topics, format, and logistics.
 
 ## About me
 
@@ -40,7 +42,7 @@ I've worked for various startups in France and in the US. I was part of the team
 
 [Email](mailto:jerome.petazzoni@gmail.com)
 |
-[Twitter](https://twitter.com/jpetazzo)
+[Mastodon](https://hachyderm.io/@jpetazzo)
 |
 [LinkedIn](https://www.linkedin.com/in/jpetazzo)
 |
